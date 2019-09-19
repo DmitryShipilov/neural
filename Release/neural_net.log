@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  main.cpp
+  net.cpp
+  neuron.cpp
+  trainingSet.cpp
+  Создание кода
+  All 506 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  neural_net.vcxproj -> D:\cppProjects\repos\neural_net\neural_net\Release\neural_net.exe
